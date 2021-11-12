@@ -1,0 +1,137 @@
+[
+  {
+    "id": 1,
+    "username": "aorleton0",
+    "avatar": "https://robohash.org/facerenihilearum.png?size=50x50&set=set1",
+    "age": 58,
+    "time_elapsed": 4951,
+    "distance": 4.2,
+    "avg_heartrate": 121
+  },
+  {
+    "id": 2,
+    "username": "bbertouloume1",
+    "avatar": "https://robohash.org/sinttemporelibero.png?size=50x50&set=set1",
+    "age": 29,
+    "time_elapsed": 6359,
+    "distance": 4.65,
+    "avg_heartrate": 149
+  },
+  {
+    "id": 3,
+    "username": "pbraffington2",
+    "avatar": "https://robohash.org/dolorfacilisnisi.png?size=50x50&set=set1",
+    "age": 25,
+    "time_elapsed": 5672,
+    "distance": 0.22,
+    "avg_heartrate": 150
+  },
+  {
+    "id": 4,
+    "username": "glovell3",
+    "avatar": "https://robohash.org/voluptassedmolestiae.png?size=50x50&set=set1",
+    "age": 58,
+    "time_elapsed": 5790,
+    "distance": 2.39,
+    "avg_heartrate": 100
+  },
+  {
+    "id": 5,
+    "username": "gpeople4",
+    "avatar": "https://robohash.org/placeatdolorumomnis.png?size=50x50&set=set1",
+    "age": 37,
+    "time_elapsed": 2213,
+    "distance": 3.71,
+    "avg_heartrate": 101
+  },
+  {
+    "id": 6,
+    "username": "yvandermark5",
+    "avatar": "https://robohash.org/doloremvoluptatemsuscipit.png?size=50x50&set=set1",
+    "age": 30,
+    "time_elapsed": 6060,
+    "distance": 4.83,
+    "avg_heartrate": 123
+  },
+  {
+    "id": 7,
+    "username": "owhightman6",
+    "avatar": "https://robohash.org/eaundequia.png?size=50x50&set=set1",
+    "age": 33,
+    "time_elapsed": 4959,
+    "distance": 2.76,
+    "avg_heartrate": 145
+  },
+  {
+    "id": 8,
+    "username": "asearles7",
+    "avatar": "https://robohash.org/magniomnissaepe.png?size=50x50&set=set1",
+    "age": 67,
+    "time_elapsed": 6246,
+    "distance": 2.13,
+    "avg_heartrate": 142
+  },
+  {
+    "id": 9,
+    "username": "callcroft8",
+    "avatar": "https://robohash.org/pariaturporrodolore.png?size=50x50&set=set1",
+    "age": 62,
+    "time_elapsed": 1955,
+    "distance": 2.54,
+    "avg_heartrate": 110
+  },
+  {
+    "id": 10,
+    "username": "mcoatsworth9",
+    "avatar": "https://robohash.org/omnisessequis.png?size=50x50&set=set1",
+    "age": 29,
+    "time_elapsed": 7175,
+    "distance": 2.78,
+    "avg_heartrate": 98
+  },
+  {
+    "id": 11,
+    "username": "kmateeva",
+    "avatar": "https://robohash.org/molestiaecorporiseius.png?size=50x50&set=set1",
+    "age": 51,
+    "time_elapsed": 5589,
+    "distance": 4.39,
+    "avg_heartrate": 143
+  },
+  {
+    "id": 12,
+    "username": "mvanyashkinb",
+    "avatar": "https://robohash.org/illumoccaecatimolestiae.png?size=50x50&set=set1",
+    "age": 33,
+    "time_elapsed": 3937,
+    "distance": 3.93,
+    "avg_heartrate": 130
+  },
+  {
+    "id": 13,
+    "username": "gcollishawc",
+    "avatar": "https://robohash.org/aliasducimusesse.png?size=50x50&set=set1",
+    "age": 22,
+    "time_elapsed": 2945,
+    "distance": 4.58,
+    "avg_heartrate": 99
+  },
+  {
+    "id": 14,
+    "username": "gbroxisd",
+    "avatar": "https://robohash.org/auteiusquo.png?size=50x50&set=set1",
+    "age": 26,
+    "time_elapsed": 3156,
+    "distance": 0.32,
+    "avg_heartrate": 144
+  },
+  {
+    "id": 15,
+    "username": "phinzee",
+    "avatar": "https://robohash.org/nonnihilfacere.png?size=50x50&set=set1",
+    "age": 52,
+    "time_elapsed": 2622,
+    "distance": 4.54,
+    "avg_heartrate": 121
+  }
+]
